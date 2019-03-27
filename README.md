@@ -1,2 +1,3 @@
-# kafka-demo
-Kafka demo
+# Repo for Kafka Demos
+
+Coming soon...  
