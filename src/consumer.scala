@@ -34,7 +34,7 @@ object Consumer extends App {
 
     val poolTime = 100
     while(true){
-      val records=consumer.poll(poolTime)
+      val records = consumer.poll(poolTime)
       for (record<-records.asScala) {
         println(record)
       }
