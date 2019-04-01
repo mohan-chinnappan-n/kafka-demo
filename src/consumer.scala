@@ -20,8 +20,6 @@ object Consumer extends App {
     val servers = args(1)
 
     val  props = new Properties()
-    val herokuKafkaURL = "kafka+ssl://ec2-3-209-220-203.compute-1.amazonaws.com:9096,kafka+ssl://ec2-34-232-170-88.compute-1.amazonaws.com:9096,kafka+ssl://ec2-34-238-210-1.compute-1.amazonaws.com:9096" 
-    val herokuKafkaURL2 = "ec2-3-209-220-203.compute-1.amazonaws.com:9096"
     // props.put("bootstrap.servers", herokuKafkaURL2)
 
     props.put("bootstrap.servers", servers)
