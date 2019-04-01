@@ -1,3 +1,4 @@
 # Repo for Kafka Demos
 
-Coming soon...  
+###  Demo Producer and Consumer in Scala 
+![Demo1](img/kafka-1.gif)
