@@ -1,0 +1,7 @@
+org/mohansun/kafka/pojo/CustomMessage.class
+org/mohansun/kafka/producer/ProducerGenerator.class
+org/mohansun/kafka/partitioner/CustomPartitioner.class
+org/mohansun/kafka/App.class
+org/mohansun/kafka/consumer/ConsumerGenerator.class
+org/mohansun/kafka/serializer/CustomSerializer.class
+org/mohansun/kafka/constants/IKafkaConstants.class

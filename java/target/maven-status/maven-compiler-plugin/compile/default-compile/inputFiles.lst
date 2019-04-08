@@ -1,0 +1,8 @@
+/Users/mchinnappan/apache/kafka/github/kafka-demo/java/src/main/java/org/mohansun/kafka/consumer/ConsumerGenerator.java
+/Users/mchinnappan/apache/kafka/github/kafka-demo/java/src/main/java/org/mohansun/kafka/producer/ProducerGenerator.java
+/Users/mchinnappan/apache/kafka/github/kafka-demo/java/src/main/java/org/mohansun/kafka/constants/IKafkaConstants.java
+/Users/mchinnappan/apache/kafka/github/kafka-demo/java/src/main/java/org/mohansun/kafka/partitioner/CustomPartitioner.java
+/Users/mchinnappan/apache/kafka/github/kafka-demo/java/src/main/java/org/mohansun/kafka/App.java
+/Users/mchinnappan/apache/kafka/github/kafka-demo/java/src/main/java/org/mohansun/kafka/serializer/CustomSerializer.java
+/Users/mchinnappan/apache/kafka/github/kafka-demo/java/src/main/java/org/mohansun/kafka/pojo/CustomMessage.java
+/Users/mchinnappan/apache/kafka/github/kafka-demo/java/src/main/java/org/mohansun/kafka/deserializer/CustomDeserializer.java
